@@ -8,5 +8,6 @@ int main()
 		
 	cout << "sum = " << a+b << endl;
 	cout << "edited" << endl;
+	cout << "edited 2" << endl;
 	return 0;
 }

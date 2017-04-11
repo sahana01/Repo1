@@ -9,5 +9,7 @@ int main()
 	cout << "diff = " << b - a << endl;
 	cout << "edited" << endl;
 	cout << "edited 2" << endl;
+	cout << "branched" << endl;
+
 	return 0;
 }
